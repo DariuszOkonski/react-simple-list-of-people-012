@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "name": "John",
+    "city": "London",
+    "line": true
+  },
+  {
+    "id": 2,
+    "name": "Mary",
+    "city": "Boston",
+    "line": true
+  },
+  {
+    "id": 3,
+    "name": "Steven",
+    "city": "Slough",
+    "line": false
+  },
+  {
+    "id": 4,
+    "name": "Joshua",
+    "city": "Maidenhead",
+    "line": false
+  },
+  {
+    "id": 5,
+    "name": "Kevin",
+    "city": "Newbury",
+    "line": false
+  },
+  {
+    "id": 6,
+    "name": "Stevard",
+    "city": "Reading",
+    "line": false
+  },
+  {
+    "id": 7,
+    "name": "Mark",
+    "city": "Wokingham",
+    "line": false
+  },
+  {
+    "id": 8,
+    "name": "Angelina",
+    "city": "Basingstoke",
+    "line": false
+  },
+  {
+    "id": 9,
+    "name": "Cristina",
+    "city": "Brighton",
+    "line": false
+  },
+  {
+    "id": 10,
+    "name": "Nicola",
+    "city": "Las Vegas",
+    "line": false
+  }
+]
